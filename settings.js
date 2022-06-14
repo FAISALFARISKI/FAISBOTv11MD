@@ -20,9 +20,9 @@ global.autoread = false // auto read pesan / message
 // Other
 global.botname = "Dityabotz-Mdོ" //namabot kalian
 global.ownername= "ᴹᴿ᭄ Dityaastawa ×፝֟͜×" //nama kalian
-global.myweb ="https://api.zeeoneofc.xyz" //bebas asal jan hapus
+global.myweb ="https://chat.whatsapp.com/CXP3PISEIaF90hb5WbUIRh" //bebas asal jan hapus
 global.youtube = "https://youtube.com/channel/UCxkIPWS8gVxomQTVWxetdSg" //bebas asal jan hapus
-global.github = "https://chat.whatsapp.com/CXP3PISEIaF90hb5WbUIRh" //bebas
+global.github = "https://github.com/Dityaastawa" //bebas
 global.email = "dityaastawa2@gmail.com" //bebas
 global.region = "Indonesia" //bebas
 global.ownernomer = "6285237596750" // nomor wa kalian
